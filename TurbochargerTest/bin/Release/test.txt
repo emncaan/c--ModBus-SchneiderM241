@@ -1,0 +1,1859 @@
+26.04.2021 9:48:19.25 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:19.25 Send ModbusTCP-Data: 00-01-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:19.25 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:19.26 Send ModbusTCP-Data: 00-02-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:19.26 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:19.26 Send ModbusTCP-Data: 00-03-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:19.26 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:19.26 Send ModbusTCP-Data: 00-04-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:19.26 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:19.26 Send ModbusTCP-Data: 00-05-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:19.26 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:19.27 Send ModbusTCP-Data: 00-06-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:19.27 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:19.27 Send ModbusTCP-Data: 00-07-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:19.27 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:19.27 Send ModbusTCP-Data: 00-08-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:19.27 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:19.27 Send ModbusTCP-Data: 00-09-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:19.28 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:19.28 Send ModbusTCP-Data: 00-0A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:19.28 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:19.28 Send ModbusTCP-Data: 00-0B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:19.28 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:19.29 Send ModbusTCP-Data: 00-0C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:19.76 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:19.76 Send ModbusTCP-Data: 00-0D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:19.76 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:19.76 Send ModbusTCP-Data: 00-0E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:19.76 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:19.76 Send ModbusTCP-Data: 00-0F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:19.76 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:19.76 Send ModbusTCP-Data: 00-10-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:19.76 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:19.77 Send ModbusTCP-Data: 00-11-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:19.77 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:19.77 Send ModbusTCP-Data: 00-12-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:19.77 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:19.77 Send ModbusTCP-Data: 00-13-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:19.77 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:19.77 Send ModbusTCP-Data: 00-14-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:19.77 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:19.77 Send ModbusTCP-Data: 00-15-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:19.77 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:19.78 Send ModbusTCP-Data: 00-16-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:19.78 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:19.78 Send ModbusTCP-Data: 00-17-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:19.78 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:19.78 Send ModbusTCP-Data: 00-18-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:20.26 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:20.26 Send ModbusTCP-Data: 00-19-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:20.26 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:20.26 Send ModbusTCP-Data: 00-1A-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:20.26 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:20.26 Send ModbusTCP-Data: 00-1B-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:20.27 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:20.27 Send ModbusTCP-Data: 00-1C-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:20.28 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:20.28 Send ModbusTCP-Data: 00-1D-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:20.29 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:20.29 Send ModbusTCP-Data: 00-1E-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:20.30 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:20.30 Send ModbusTCP-Data: 00-1F-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:20.31 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:20.31 Send ModbusTCP-Data: 00-20-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:20.32 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:20.32 Send ModbusTCP-Data: 00-21-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:20.33 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:20.33 Send ModbusTCP-Data: 00-22-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:20.34 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:20.34 Send ModbusTCP-Data: 00-23-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:20.35 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:20.35 Send ModbusTCP-Data: 00-24-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:20.78 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:20.78 Send ModbusTCP-Data: 00-25-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:20.78 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:20.78 Send ModbusTCP-Data: 00-26-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:20.78 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:20.78 Send ModbusTCP-Data: 00-27-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:20.78 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:20.78 Send ModbusTCP-Data: 00-28-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:20.78 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:20.79 Send ModbusTCP-Data: 00-29-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:20.79 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:20.79 Send ModbusTCP-Data: 00-2A-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:20.79 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:20.79 Send ModbusTCP-Data: 00-2B-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:20.79 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:20.79 Send ModbusTCP-Data: 00-2C-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:20.79 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:20.79 Send ModbusTCP-Data: 00-2D-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:20.80 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:20.80 Send ModbusTCP-Data: 00-2E-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:20.80 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:20.80 Send ModbusTCP-Data: 00-2F-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:20.80 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:20.80 Send ModbusTCP-Data: 00-30-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:21.28 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:21.28 Send ModbusTCP-Data: 00-31-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:21.28 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:21.28 Send ModbusTCP-Data: 00-32-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:21.28 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:21.28 Send ModbusTCP-Data: 00-33-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:21.28 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:21.28 Send ModbusTCP-Data: 00-34-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:21.28 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:21.28 Send ModbusTCP-Data: 00-35-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:21.29 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:21.29 Send ModbusTCP-Data: 00-36-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:21.29 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:21.29 Send ModbusTCP-Data: 00-37-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:21.29 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:21.29 Send ModbusTCP-Data: 00-38-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:21.29 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:21.29 Send ModbusTCP-Data: 00-39-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:21.29 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:21.30 Send ModbusTCP-Data: 00-3A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:21.30 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:21.30 Send ModbusTCP-Data: 00-3B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:21.30 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:21.30 Send ModbusTCP-Data: 00-3C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:21.80 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:21.80 Send ModbusTCP-Data: 00-3D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:21.80 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:21.80 Send ModbusTCP-Data: 00-3E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:21.80 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:21.80 Send ModbusTCP-Data: 00-3F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:21.80 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:21.80 Send ModbusTCP-Data: 00-40-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:21.80 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:21.81 Send ModbusTCP-Data: 00-41-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:21.81 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:21.81 Send ModbusTCP-Data: 00-42-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:21.81 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:21.81 Send ModbusTCP-Data: 00-43-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:21.82 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:21.82 Send ModbusTCP-Data: 00-44-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:21.82 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:21.82 Send ModbusTCP-Data: 00-45-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:21.83 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:21.83 Send ModbusTCP-Data: 00-46-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:21.83 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:21.83 Send ModbusTCP-Data: 00-47-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:21.83 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:21.83 Send ModbusTCP-Data: 00-48-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:22.30 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:22.30 Send ModbusTCP-Data: 00-49-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:22.30 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:22.30 Send ModbusTCP-Data: 00-4A-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:22.30 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:22.30 Send ModbusTCP-Data: 00-4B-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:22.30 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:22.30 Send ModbusTCP-Data: 00-4C-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:22.30 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:22.30 Send ModbusTCP-Data: 00-4D-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:22.31 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:22.31 Send ModbusTCP-Data: 00-4E-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:22.31 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:22.31 Send ModbusTCP-Data: 00-4F-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:22.31 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:22.31 Send ModbusTCP-Data: 00-50-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:22.31 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:22.31 Send ModbusTCP-Data: 00-51-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:22.32 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:22.32 Send ModbusTCP-Data: 00-52-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:22.32 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:22.32 Send ModbusTCP-Data: 00-53-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:22.32 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:22.32 Send ModbusTCP-Data: 00-54-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:22.81 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:22.81 Send ModbusTCP-Data: 00-55-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:22.81 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:22.81 Send ModbusTCP-Data: 00-56-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:22.81 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:22.81 Send ModbusTCP-Data: 00-57-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:22.81 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:22.81 Send ModbusTCP-Data: 00-58-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:22.81 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:22.81 Send ModbusTCP-Data: 00-59-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:22.82 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:22.82 Send ModbusTCP-Data: 00-5A-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:22.82 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:22.82 Send ModbusTCP-Data: 00-5B-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:22.82 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:22.82 Send ModbusTCP-Data: 00-5C-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:22.82 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:22.82 Send ModbusTCP-Data: 00-5D-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:22.82 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:22.82 Send ModbusTCP-Data: 00-5E-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:22.83 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:22.83 Send ModbusTCP-Data: 00-5F-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:22.83 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:22.83 Send ModbusTCP-Data: 00-60-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:23.32 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:23.32 Send ModbusTCP-Data: 00-61-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:23.32 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:23.32 Send ModbusTCP-Data: 00-62-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:23.32 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:23.32 Send ModbusTCP-Data: 00-63-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:23.32 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:23.32 Send ModbusTCP-Data: 00-64-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:23.32 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:23.32 Send ModbusTCP-Data: 00-65-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:23.33 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:23.33 Send ModbusTCP-Data: 00-66-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:23.33 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:23.33 Send ModbusTCP-Data: 00-67-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:23.33 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:23.34 Send ModbusTCP-Data: 00-68-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:23.34 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:23.34 Send ModbusTCP-Data: 00-69-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:23.34 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:23.34 Send ModbusTCP-Data: 00-6A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:23.34 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:23.34 Send ModbusTCP-Data: 00-6B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:23.35 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:23.35 Send ModbusTCP-Data: 00-6C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:23.83 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:23.83 Send ModbusTCP-Data: 00-6D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:23.83 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:23.83 Send ModbusTCP-Data: 00-6E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:23.83 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:23.83 Send ModbusTCP-Data: 00-6F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:23.83 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:23.83 Send ModbusTCP-Data: 00-70-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:23.83 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:23.84 Send ModbusTCP-Data: 00-71-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:23.84 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:23.84 Send ModbusTCP-Data: 00-72-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:23.84 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:23.84 Send ModbusTCP-Data: 00-73-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:23.84 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:23.84 Send ModbusTCP-Data: 00-74-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:23.84 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:23.84 Send ModbusTCP-Data: 00-75-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:23.84 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:23.85 Send ModbusTCP-Data: 00-76-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:23.85 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:23.85 Send ModbusTCP-Data: 00-77-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:23.85 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:23.85 Send ModbusTCP-Data: 00-78-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:24.33 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:24.33 Send ModbusTCP-Data: 00-79-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:24.33 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:24.33 Send ModbusTCP-Data: 00-7A-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:24.33 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:24.33 Send ModbusTCP-Data: 00-7B-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:24.33 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:24.33 Send ModbusTCP-Data: 00-7C-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:24.33 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:24.33 Send ModbusTCP-Data: 00-7D-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:24.34 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:24.34 Send ModbusTCP-Data: 00-7E-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:24.34 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:24.34 Send ModbusTCP-Data: 00-7F-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:24.34 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:24.34 Send ModbusTCP-Data: 00-80-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:24.34 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:24.34 Send ModbusTCP-Data: 00-81-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:24.35 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:24.35 Send ModbusTCP-Data: 00-82-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:24.35 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:24.35 Send ModbusTCP-Data: 00-83-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:24.35 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:24.35 Send ModbusTCP-Data: 00-84-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:24.84 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:24.84 Send ModbusTCP-Data: 00-85-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:24.84 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:24.84 Send ModbusTCP-Data: 00-86-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:24.84 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:24.84 Send ModbusTCP-Data: 00-87-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:24.84 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:24.84 Send ModbusTCP-Data: 00-88-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:24.84 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:24.84 Send ModbusTCP-Data: 00-89-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:24.85 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:24.85 Send ModbusTCP-Data: 00-8A-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:24.85 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:24.85 Send ModbusTCP-Data: 00-8B-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:24.85 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:24.85 Send ModbusTCP-Data: 00-8C-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:24.85 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:24.85 Send ModbusTCP-Data: 00-8D-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:24.86 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:24.86 Send ModbusTCP-Data: 00-8E-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:24.86 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:24.86 Send ModbusTCP-Data: 00-8F-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:24.86 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:24.86 Send ModbusTCP-Data: 00-90-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:25.34 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:25.34 Send ModbusTCP-Data: 00-91-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:25.34 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:25.34 Send ModbusTCP-Data: 00-92-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:25.34 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:25.34 Send ModbusTCP-Data: 00-93-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:25.34 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:25.34 Send ModbusTCP-Data: 00-94-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:25.34 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:25.34 Send ModbusTCP-Data: 00-95-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:25.35 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:25.35 Send ModbusTCP-Data: 00-96-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:25.35 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:25.35 Send ModbusTCP-Data: 00-97-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:25.35 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:25.35 Send ModbusTCP-Data: 00-98-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:25.35 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:25.35 Send ModbusTCP-Data: 00-99-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:25.35 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:25.35 Send ModbusTCP-Data: 00-9A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:25.36 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:25.36 Send ModbusTCP-Data: 00-9B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:25.36 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:25.36 Send ModbusTCP-Data: 00-9C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:25.68 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:25.68 Send ModbusTCP-Data: 00-9D-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:25.85 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:25.85 Send ModbusTCP-Data: 00-9E-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:25.85 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:25.85 Send ModbusTCP-Data: 00-9F-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:25.85 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:25.85 Send ModbusTCP-Data: 00-A0-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:25.85 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:25.85 Send ModbusTCP-Data: 00-A1-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:25.86 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:25.86 Send ModbusTCP-Data: 00-A2-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:25.86 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:25.86 Send ModbusTCP-Data: 00-A3-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:25.86 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:25.86 Send ModbusTCP-Data: 00-A4-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:25.86 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:25.86 Send ModbusTCP-Data: 00-A5-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:25.86 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:25.86 Send ModbusTCP-Data: 00-A6-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:25.87 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:25.87 Send ModbusTCP-Data: 00-A7-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:25.87 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:25.87 Send ModbusTCP-Data: 00-A8-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:25.87 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:25.87 Send ModbusTCP-Data: 00-A9-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:26.13 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:26.13 Send ModbusTCP-Data: 00-AA-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:26.35 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:26.35 Send ModbusTCP-Data: 00-AB-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:26.35 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:26.35 Send ModbusTCP-Data: 00-AC-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:26.35 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:26.35 Send ModbusTCP-Data: 00-AD-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:26.36 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:26.36 Send ModbusTCP-Data: 00-AE-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:26.36 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:26.36 Send ModbusTCP-Data: 00-AF-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:26.36 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:26.36 Send ModbusTCP-Data: 00-B0-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:26.36 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:26.36 Send ModbusTCP-Data: 00-B1-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:26.36 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:26.36 Send ModbusTCP-Data: 00-B2-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:26.37 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:26.37 Send ModbusTCP-Data: 00-B3-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:26.37 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:26.37 Send ModbusTCP-Data: 00-B4-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:26.37 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:26.37 Send ModbusTCP-Data: 00-B5-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:26.37 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:26.37 Send ModbusTCP-Data: 00-B6-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:26.87 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:26.87 Send ModbusTCP-Data: 00-B7-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:26.87 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:26.87 Send ModbusTCP-Data: 00-B8-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:26.87 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:26.87 Send ModbusTCP-Data: 00-B9-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:26.87 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:26.87 Send ModbusTCP-Data: 00-BA-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:26.87 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:26.88 Send ModbusTCP-Data: 00-BB-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:26.88 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:26.88 Send ModbusTCP-Data: 00-BC-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:26.88 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:26.88 Send ModbusTCP-Data: 00-BD-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:26.88 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:26.88 Send ModbusTCP-Data: 00-BE-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:26.88 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:26.88 Send ModbusTCP-Data: 00-BF-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:26.88 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:26.88 Send ModbusTCP-Data: 00-C0-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:26.89 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:26.89 Send ModbusTCP-Data: 00-C1-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:26.89 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:26.89 Send ModbusTCP-Data: 00-C2-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:27.09 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:27.09 Send ModbusTCP-Data: 00-C3-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:27.37 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:27.37 Send ModbusTCP-Data: 00-C4-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:27.37 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:27.37 Send ModbusTCP-Data: 00-C5-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:27.37 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:27.37 Send ModbusTCP-Data: 00-C6-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:27.38 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:27.38 Send ModbusTCP-Data: 00-C7-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:27.38 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:27.38 Send ModbusTCP-Data: 00-C8-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:27.38 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:27.38 Send ModbusTCP-Data: 00-C9-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:27.38 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:27.38 Send ModbusTCP-Data: 00-CA-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:27.39 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:27.39 Send ModbusTCP-Data: 00-CB-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:27.39 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:27.39 Send ModbusTCP-Data: 00-CC-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:27.39 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:27.39 Send ModbusTCP-Data: 00-CD-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:27.39 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:27.39 Send ModbusTCP-Data: 00-CE-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:27.39 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:27.39 Send ModbusTCP-Data: 00-CF-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:27.56 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:27.56 Send ModbusTCP-Data: 00-D0-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:27.88 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:27.88 Send ModbusTCP-Data: 00-D1-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:27.88 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:27.88 Send ModbusTCP-Data: 00-D2-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:27.88 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:27.88 Send ModbusTCP-Data: 00-D3-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:27.88 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:27.88 Send ModbusTCP-Data: 00-D4-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:27.88 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:27.89 Send ModbusTCP-Data: 00-D5-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:27.89 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:27.89 Send ModbusTCP-Data: 00-D6-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:27.89 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:27.89 Send ModbusTCP-Data: 00-D7-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:27.89 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:27.89 Send ModbusTCP-Data: 00-D8-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:27.89 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:27.89 Send ModbusTCP-Data: 00-D9-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:27.89 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:27.89 Send ModbusTCP-Data: 00-DA-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:27.90 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:27.90 Send ModbusTCP-Data: 00-DB-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:27.90 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:27.90 Send ModbusTCP-Data: 00-DC-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:28.31 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:28.32 Send ModbusTCP-Data: 00-DD-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:28.38 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:28.38 Send ModbusTCP-Data: 00-DE-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:28.38 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:28.38 Send ModbusTCP-Data: 00-DF-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:28.38 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:28.38 Send ModbusTCP-Data: 00-E0-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:28.38 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:28.38 Send ModbusTCP-Data: 00-E1-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:28.38 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:28.38 Send ModbusTCP-Data: 00-E2-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:28.39 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:28.39 Send ModbusTCP-Data: 00-E3-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:28.39 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:28.39 Send ModbusTCP-Data: 00-E4-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:28.39 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:28.39 Send ModbusTCP-Data: 00-E5-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:28.39 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:28.39 Send ModbusTCP-Data: 00-E6-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:28.39 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:28.39 Send ModbusTCP-Data: 00-E7-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:28.40 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:28.40 Send ModbusTCP-Data: 00-E8-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:28.40 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:28.40 Send ModbusTCP-Data: 00-E9-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:28.73 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:28.73 Send ModbusTCP-Data: 00-EA-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:28.89 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:28.89 Send ModbusTCP-Data: 00-EB-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:28.89 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:28.89 Send ModbusTCP-Data: 00-EC-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:28.89 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:28.89 Send ModbusTCP-Data: 00-ED-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:28.89 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:28.89 Send ModbusTCP-Data: 00-EE-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:28.89 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:28.89 Send ModbusTCP-Data: 00-EF-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:28.90 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:28.90 Send ModbusTCP-Data: 00-F0-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:28.90 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:28.90 Send ModbusTCP-Data: 00-F1-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:28.90 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:28.90 Send ModbusTCP-Data: 00-F2-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:28.90 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:28.90 Send ModbusTCP-Data: 00-F3-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:28.90 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:28.91 Send ModbusTCP-Data: 00-F4-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:28.91 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:28.91 Send ModbusTCP-Data: 00-F5-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:28.91 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:28.91 Send ModbusTCP-Data: 00-F6-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:29.30 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:29.30 Send ModbusTCP-Data: 00-F7-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:29.40 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:29.40 Send ModbusTCP-Data: 00-F8-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:29.40 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:29.40 Send ModbusTCP-Data: 00-F9-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:29.40 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:29.40 Send ModbusTCP-Data: 00-FA-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:29.40 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:29.40 Send ModbusTCP-Data: 00-FB-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:29.40 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:29.41 Send ModbusTCP-Data: 00-FC-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:29.41 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:29.41 Send ModbusTCP-Data: 00-FD-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:29.41 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:29.41 Send ModbusTCP-Data: 00-FE-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:29.41 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:29.41 Send ModbusTCP-Data: 00-FF-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:29.41 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:29.41 Send ModbusTCP-Data: 01-00-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:29.41 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:29.41 Send ModbusTCP-Data: 01-01-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:29.42 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:29.42 Send ModbusTCP-Data: 01-02-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:29.42 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:29.42 Send ModbusTCP-Data: 01-03-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:29.69 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:29.69 Send ModbusTCP-Data: 01-04-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:29.91 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:29.91 Send ModbusTCP-Data: 01-05-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:29.91 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:29.91 Send ModbusTCP-Data: 01-06-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:29.91 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:29.91 Send ModbusTCP-Data: 01-07-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:29.91 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:29.91 Send ModbusTCP-Data: 01-08-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:29.91 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:29.91 Send ModbusTCP-Data: 01-09-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:29.92 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:29.92 Send ModbusTCP-Data: 01-0A-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:29.92 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:29.92 Send ModbusTCP-Data: 01-0B-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:29.92 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:29.92 Send ModbusTCP-Data: 01-0C-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:29.92 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:29.92 Send ModbusTCP-Data: 01-0D-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:29.92 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:29.92 Send ModbusTCP-Data: 01-0E-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:29.93 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:29.93 Send ModbusTCP-Data: 01-0F-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:29.93 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:29.93 Send ModbusTCP-Data: 01-10-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:30.11 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:30.11 Send ModbusTCP-Data: 01-11-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:30.39 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:30.39 Send ModbusTCP-Data: 01-12-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:30.41 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:30.41 Send ModbusTCP-Data: 01-13-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:30.41 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:30.41 Send ModbusTCP-Data: 01-14-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:30.41 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:30.41 Send ModbusTCP-Data: 01-15-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:30.41 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:30.41 Send ModbusTCP-Data: 01-16-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:30.42 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:30.42 Send ModbusTCP-Data: 01-17-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:30.42 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:30.42 Send ModbusTCP-Data: 01-18-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:30.42 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:30.42 Send ModbusTCP-Data: 01-19-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:30.42 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:30.42 Send ModbusTCP-Data: 01-1A-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:30.42 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:30.42 Send ModbusTCP-Data: 01-1B-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:30.43 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:30.43 Send ModbusTCP-Data: 01-1C-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:30.43 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:30.43 Send ModbusTCP-Data: 01-1D-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:30.43 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:30.43 Send ModbusTCP-Data: 01-1E-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:30.92 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:30.92 Send ModbusTCP-Data: 01-1F-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:30.92 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:30.92 Send ModbusTCP-Data: 01-20-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:30.92 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:30.92 Send ModbusTCP-Data: 01-21-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:30.92 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:30.92 Send ModbusTCP-Data: 01-22-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:30.93 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:30.93 Send ModbusTCP-Data: 01-23-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:30.93 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:30.93 Send ModbusTCP-Data: 01-24-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:30.93 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:30.93 Send ModbusTCP-Data: 01-25-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:30.93 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:30.93 Send ModbusTCP-Data: 01-26-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:30.93 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:30.93 Send ModbusTCP-Data: 01-27-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:30.94 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:30.94 Send ModbusTCP-Data: 01-28-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:30.94 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:30.94 Send ModbusTCP-Data: 01-29-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:30.95 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:30.95 Send ModbusTCP-Data: 01-2A-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:31.11 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:31.11 Send ModbusTCP-Data: 01-2B-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:31.43 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:31.43 Send ModbusTCP-Data: 01-2C-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:31.43 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:31.43 Send ModbusTCP-Data: 01-2D-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:31.43 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:31.43 Send ModbusTCP-Data: 01-2E-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:31.43 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:31.43 Send ModbusTCP-Data: 01-2F-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:31.44 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:31.44 Send ModbusTCP-Data: 01-30-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:31.44 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:31.44 Send ModbusTCP-Data: 01-31-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:31.44 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:31.44 Send ModbusTCP-Data: 01-32-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:31.44 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:31.44 Send ModbusTCP-Data: 01-33-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:31.44 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:31.44 Send ModbusTCP-Data: 01-34-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:31.45 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:31.45 Send ModbusTCP-Data: 01-35-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:31.45 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:31.45 Send ModbusTCP-Data: 01-36-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:31.45 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:31.45 Send ModbusTCP-Data: 01-37-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:31.86 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:31.86 Send ModbusTCP-Data: 01-38-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:31.93 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:31.93 Send ModbusTCP-Data: 01-39-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:31.93 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:31.93 Send ModbusTCP-Data: 01-3A-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:31.93 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:31.93 Send ModbusTCP-Data: 01-3B-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:31.93 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:31.94 Send ModbusTCP-Data: 01-3C-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:31.94 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:31.94 Send ModbusTCP-Data: 01-3D-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:31.94 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:31.94 Send ModbusTCP-Data: 01-3E-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:31.94 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:31.94 Send ModbusTCP-Data: 01-3F-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:31.94 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:31.94 Send ModbusTCP-Data: 01-40-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:31.94 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:31.94 Send ModbusTCP-Data: 01-41-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:31.96 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:31.96 Send ModbusTCP-Data: 01-42-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:31.96 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:31.96 Send ModbusTCP-Data: 01-43-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:31.96 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:31.96 Send ModbusTCP-Data: 01-44-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:32.40 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:32.40 Send ModbusTCP-Data: 01-45-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:32.43 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:32.43 Send ModbusTCP-Data: 01-46-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:32.43 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:32.43 Send ModbusTCP-Data: 01-47-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:32.43 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:32.43 Send ModbusTCP-Data: 01-48-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:32.43 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:32.43 Send ModbusTCP-Data: 01-49-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:32.43 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:32.43 Send ModbusTCP-Data: 01-4A-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:32.44 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:32.44 Send ModbusTCP-Data: 01-4B-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:32.44 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:32.44 Send ModbusTCP-Data: 01-4C-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:32.44 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:32.44 Send ModbusTCP-Data: 01-4D-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:32.44 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:32.44 Send ModbusTCP-Data: 01-4E-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:32.44 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:32.44 Send ModbusTCP-Data: 01-4F-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:32.45 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:32.45 Send ModbusTCP-Data: 01-50-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:32.45 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:32.45 Send ModbusTCP-Data: 01-51-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:32.85 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:32.85 Send ModbusTCP-Data: 01-52-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:32.95 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:32.95 Send ModbusTCP-Data: 01-53-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:32.95 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:32.95 Send ModbusTCP-Data: 01-54-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:32.95 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:32.95 Send ModbusTCP-Data: 01-55-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:32.95 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:32.95 Send ModbusTCP-Data: 01-56-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:32.96 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:32.96 Send ModbusTCP-Data: 01-57-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:32.96 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:32.96 Send ModbusTCP-Data: 01-58-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:32.96 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:32.96 Send ModbusTCP-Data: 01-59-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:32.96 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:32.96 Send ModbusTCP-Data: 01-5A-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:32.96 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:32.96 Send ModbusTCP-Data: 01-5B-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:32.97 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:32.97 Send ModbusTCP-Data: 01-5C-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:32.97 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:32.97 Send ModbusTCP-Data: 01-5D-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:32.97 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:32.97 Send ModbusTCP-Data: 01-5E-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:33.43 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:33.43 Send ModbusTCP-Data: 01-5F-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:33.45 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:33.45 Send ModbusTCP-Data: 01-60-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:33.45 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:33.45 Send ModbusTCP-Data: 01-61-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:33.46 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:33.46 Send ModbusTCP-Data: 01-62-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:33.46 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:33.46 Send ModbusTCP-Data: 01-63-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:33.46 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:33.46 Send ModbusTCP-Data: 01-64-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:33.46 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:33.46 Send ModbusTCP-Data: 01-65-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:33.47 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:33.47 Send ModbusTCP-Data: 01-66-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:33.47 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:33.47 Send ModbusTCP-Data: 01-67-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:33.47 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:33.47 Send ModbusTCP-Data: 01-68-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:33.47 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:33.47 Send ModbusTCP-Data: 01-69-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:33.48 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:33.48 Send ModbusTCP-Data: 01-6A-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:33.48 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:33.48 Send ModbusTCP-Data: 01-6B-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:33.89 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:33.89 Send ModbusTCP-Data: 01-6C-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:33.96 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:33.96 Send ModbusTCP-Data: 01-6D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:33.96 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:33.96 Send ModbusTCP-Data: 01-6E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:33.96 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:33.96 Send ModbusTCP-Data: 01-6F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:33.96 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:33.96 Send ModbusTCP-Data: 01-70-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:33.96 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:33.96 Send ModbusTCP-Data: 01-71-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:33.97 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:33.97 Send ModbusTCP-Data: 01-72-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:33.97 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:33.97 Send ModbusTCP-Data: 01-73-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:33.97 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:33.97 Send ModbusTCP-Data: 01-74-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:33.97 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:33.97 Send ModbusTCP-Data: 01-75-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:33.97 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:33.97 Send ModbusTCP-Data: 01-76-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:33.98 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:33.98 Send ModbusTCP-Data: 01-77-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:33.98 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:33.98 Send ModbusTCP-Data: 01-78-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:34.46 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:34.46 Send ModbusTCP-Data: 01-79-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:34.46 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:34.46 Send ModbusTCP-Data: 01-7A-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:34.46 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:34.46 Send ModbusTCP-Data: 01-7B-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:34.46 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:34.46 Send ModbusTCP-Data: 01-7C-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:34.46 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:34.46 Send ModbusTCP-Data: 01-7D-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:34.47 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:34.47 Send ModbusTCP-Data: 01-7E-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:34.47 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:34.47 Send ModbusTCP-Data: 01-7F-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:34.47 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:34.47 Send ModbusTCP-Data: 01-80-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:34.47 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:34.47 Send ModbusTCP-Data: 01-81-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:34.47 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:34.48 Send ModbusTCP-Data: 01-82-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:34.48 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:34.48 Send ModbusTCP-Data: 01-83-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:34.48 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:34.48 Send ModbusTCP-Data: 01-84-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:34.98 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:34.98 Send ModbusTCP-Data: 01-85-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:34.98 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:34.98 Send ModbusTCP-Data: 01-86-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:34.98 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:34.98 Send ModbusTCP-Data: 01-87-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:34.98 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:34.98 Send ModbusTCP-Data: 01-88-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:34.98 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:34.98 Send ModbusTCP-Data: 01-89-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:34.99 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:34.99 Send ModbusTCP-Data: 01-8A-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:34.99 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:34.99 Send ModbusTCP-Data: 01-8B-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:34.99 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:34.99 Send ModbusTCP-Data: 01-8C-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:34.99 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:34.99 Send ModbusTCP-Data: 01-8D-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:35.00 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:35.00 Send ModbusTCP-Data: 01-8E-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:35.00 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:35.00 Send ModbusTCP-Data: 01-8F-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:35.00 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:35.00 Send ModbusTCP-Data: 01-90-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:35.49 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:35.49 Send ModbusTCP-Data: 01-91-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:35.49 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:35.49 Send ModbusTCP-Data: 01-92-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:35.49 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:35.49 Send ModbusTCP-Data: 01-93-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:35.49 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:35.49 Send ModbusTCP-Data: 01-94-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:35.50 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:35.50 Send ModbusTCP-Data: 01-95-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:35.50 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:35.50 Send ModbusTCP-Data: 01-96-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:35.50 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:35.50 Send ModbusTCP-Data: 01-97-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:35.50 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:35.50 Send ModbusTCP-Data: 01-98-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:35.51 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:35.51 Send ModbusTCP-Data: 01-99-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:35.51 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:35.51 Send ModbusTCP-Data: 01-9A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:35.52 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:35.52 Send ModbusTCP-Data: 01-9B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:35.52 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:35.52 Send ModbusTCP-Data: 01-9C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:35.52 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:35.52 Send ModbusTCP-Data: 01-9D-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:36.01 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:36.01 Send ModbusTCP-Data: 01-9E-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:36.01 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:36.01 Send ModbusTCP-Data: 01-9F-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:36.01 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:36.01 Send ModbusTCP-Data: 01-A0-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:36.01 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:36.01 Send ModbusTCP-Data: 01-A1-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:36.01 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:36.01 Send ModbusTCP-Data: 01-A2-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:36.02 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:36.02 Send ModbusTCP-Data: 01-A3-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:36.02 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:36.02 Send ModbusTCP-Data: 01-A4-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:36.02 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:36.02 Send ModbusTCP-Data: 01-A5-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:36.02 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:36.02 Send ModbusTCP-Data: 01-A6-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:36.02 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:36.02 Send ModbusTCP-Data: 01-A7-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:36.03 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:36.03 Send ModbusTCP-Data: 01-A8-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:36.03 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:36.03 Send ModbusTCP-Data: 01-A9-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:36.52 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:36.52 Send ModbusTCP-Data: 01-AA-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:36.52 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:36.52 Send ModbusTCP-Data: 01-AB-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:36.52 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:36.52 Send ModbusTCP-Data: 01-AC-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:36.52 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:36.52 Send ModbusTCP-Data: 01-AD-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:36.52 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:36.52 Send ModbusTCP-Data: 01-AE-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:36.53 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:36.53 Send ModbusTCP-Data: 01-AF-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:36.53 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:36.53 Send ModbusTCP-Data: 01-B0-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:36.53 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:36.53 Send ModbusTCP-Data: 01-B1-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:36.53 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:36.53 Send ModbusTCP-Data: 01-B2-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:36.53 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:36.53 Send ModbusTCP-Data: 01-B3-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:36.54 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:36.54 Send ModbusTCP-Data: 01-B4-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:36.54 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:36.54 Send ModbusTCP-Data: 01-B5-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:36.66 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:36.66 Send ModbusTCP-Data: 01-B6-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:37.04 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:37.04 Send ModbusTCP-Data: 01-B7-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:37.04 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:37.04 Send ModbusTCP-Data: 01-B8-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:37.04 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:37.04 Send ModbusTCP-Data: 01-B9-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:37.04 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:37.04 Send ModbusTCP-Data: 01-BA-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:37.04 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:37.04 Send ModbusTCP-Data: 01-BB-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:37.05 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:37.05 Send ModbusTCP-Data: 01-BC-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:37.05 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:37.05 Send ModbusTCP-Data: 01-BD-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:37.05 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:37.05 Send ModbusTCP-Data: 01-BE-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:37.05 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:37.05 Send ModbusTCP-Data: 01-BF-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:37.06 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:37.06 Send ModbusTCP-Data: 01-C0-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:37.06 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:37.06 Send ModbusTCP-Data: 01-C1-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:37.06 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:37.06 Send ModbusTCP-Data: 01-C2-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:37.38 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:37.38 Send ModbusTCP-Data: 01-C3-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:37.55 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:37.55 Send ModbusTCP-Data: 01-C4-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:37.55 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:37.55 Send ModbusTCP-Data: 01-C5-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:37.55 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:37.55 Send ModbusTCP-Data: 01-C6-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:37.55 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:37.55 Send ModbusTCP-Data: 01-C7-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:37.55 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:37.55 Send ModbusTCP-Data: 01-C8-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:37.56 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:37.56 Send ModbusTCP-Data: 01-C9-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:37.56 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:37.56 Send ModbusTCP-Data: 01-CA-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:37.56 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:37.56 Send ModbusTCP-Data: 01-CB-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:37.56 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:37.56 Send ModbusTCP-Data: 01-CC-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:37.56 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:37.56 Send ModbusTCP-Data: 01-CD-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:37.57 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:37.57 Send ModbusTCP-Data: 01-CE-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:37.57 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:37.57 Send ModbusTCP-Data: 01-CF-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:37.96 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:37.96 Send ModbusTCP-Data: 01-D0-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:38.05 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:38.05 Send ModbusTCP-Data: 01-D1-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:38.05 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:38.05 Send ModbusTCP-Data: 01-D2-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:38.05 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:38.05 Send ModbusTCP-Data: 01-D3-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:38.05 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:38.05 Send ModbusTCP-Data: 01-D4-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:38.06 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:38.06 Send ModbusTCP-Data: 01-D5-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:38.06 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:38.06 Send ModbusTCP-Data: 01-D6-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:38.06 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:38.06 Send ModbusTCP-Data: 01-D7-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:38.06 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:38.06 Send ModbusTCP-Data: 01-D8-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:38.06 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:38.07 Send ModbusTCP-Data: 01-D9-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:38.07 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:38.07 Send ModbusTCP-Data: 01-DA-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:38.07 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:38.07 Send ModbusTCP-Data: 01-DB-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:38.07 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:38.07 Send ModbusTCP-Data: 01-DC-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:38.57 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:38.57 Send ModbusTCP-Data: 01-DD-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:38.57 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:38.57 Send ModbusTCP-Data: 01-DE-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:38.57 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:38.57 Send ModbusTCP-Data: 01-DF-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:38.58 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:38.58 Send ModbusTCP-Data: 01-E0-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:38.58 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:38.58 Send ModbusTCP-Data: 01-E1-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:38.58 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:38.58 Send ModbusTCP-Data: 01-E2-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:38.58 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:38.58 Send ModbusTCP-Data: 01-E3-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:38.59 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:38.59 Send ModbusTCP-Data: 01-E4-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:38.59 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:38.59 Send ModbusTCP-Data: 01-E5-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:38.59 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:38.59 Send ModbusTCP-Data: 01-E6-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:38.59 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:38.59 Send ModbusTCP-Data: 01-E7-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:38.59 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:38.59 Send ModbusTCP-Data: 01-E8-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:39.07 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:39.07 Send ModbusTCP-Data: 01-E9-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:39.07 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:39.07 Send ModbusTCP-Data: 01-EA-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:39.07 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:39.07 Send ModbusTCP-Data: 01-EB-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:39.07 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:39.07 Send ModbusTCP-Data: 01-EC-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:39.08 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:39.08 Send ModbusTCP-Data: 01-ED-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:39.08 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:39.08 Send ModbusTCP-Data: 01-EE-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:39.09 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:39.09 Send ModbusTCP-Data: 01-EF-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:39.09 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:39.09 Send ModbusTCP-Data: 01-F0-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:39.09 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:39.09 Send ModbusTCP-Data: 01-F1-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:39.10 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:39.10 Send ModbusTCP-Data: 01-F2-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:39.10 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:39.10 Send ModbusTCP-Data: 01-F3-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:39.10 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:39.10 Send ModbusTCP-Data: 01-F4-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:39.33 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:39.33 Send ModbusTCP-Data: 01-F5-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:39.58 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:39.58 Send ModbusTCP-Data: 01-F6-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:39.58 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:39.58 Send ModbusTCP-Data: 01-F7-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:39.58 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:39.58 Send ModbusTCP-Data: 01-F8-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:39.58 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:39.58 Send ModbusTCP-Data: 01-F9-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:39.58 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:39.58 Send ModbusTCP-Data: 01-FA-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:39.59 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:39.59 Send ModbusTCP-Data: 01-FB-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:39.59 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:39.59 Send ModbusTCP-Data: 01-FC-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:39.59 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:39.59 Send ModbusTCP-Data: 01-FD-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:39.59 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:39.59 Send ModbusTCP-Data: 01-FE-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:39.59 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:39.59 Send ModbusTCP-Data: 01-FF-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:39.60 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:39.60 Send ModbusTCP-Data: 02-00-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:39.60 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:39.60 Send ModbusTCP-Data: 02-01-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:39.60 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:39.60 Send ModbusTCP-Data: 02-02-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:40.08 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:40.08 Send ModbusTCP-Data: 02-03-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:40.08 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:40.08 Send ModbusTCP-Data: 02-04-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:40.08 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:40.08 Send ModbusTCP-Data: 02-05-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:40.08 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:40.08 Send ModbusTCP-Data: 02-06-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:40.09 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:40.09 Send ModbusTCP-Data: 02-07-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:40.09 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:40.09 Send ModbusTCP-Data: 02-08-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:40.09 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:40.09 Send ModbusTCP-Data: 02-09-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:40.09 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:40.09 Send ModbusTCP-Data: 02-0A-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:40.10 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:40.10 Send ModbusTCP-Data: 02-0B-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:40.10 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:40.10 Send ModbusTCP-Data: 02-0C-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:40.10 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:40.10 Send ModbusTCP-Data: 02-0D-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:40.10 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:40.10 Send ModbusTCP-Data: 02-0E-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:40.22 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:40.22 Send ModbusTCP-Data: 02-0F-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:40.37 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:40.37 Send ModbusTCP-Data: 02-10-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:40.59 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:40.59 Send ModbusTCP-Data: 02-11-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:40.59 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:40.59 Send ModbusTCP-Data: 02-12-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:40.59 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:40.59 Send ModbusTCP-Data: 02-13-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:40.59 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:40.59 Send ModbusTCP-Data: 02-14-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:40.60 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:40.60 Send ModbusTCP-Data: 02-15-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:40.60 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:40.60 Send ModbusTCP-Data: 02-16-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:40.60 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:40.60 Send ModbusTCP-Data: 02-17-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:40.60 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:40.60 Send ModbusTCP-Data: 02-18-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:40.60 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:40.60 Send ModbusTCP-Data: 02-19-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:40.61 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:40.61 Send ModbusTCP-Data: 02-1A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:40.61 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:40.61 Send ModbusTCP-Data: 02-1B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:40.61 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:40.61 Send ModbusTCP-Data: 02-1C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:41.09 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:41.09 Send ModbusTCP-Data: 02-1D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:41.09 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:41.09 Send ModbusTCP-Data: 02-1E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:41.09 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:41.09 Send ModbusTCP-Data: 02-1F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:41.09 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:41.09 Send ModbusTCP-Data: 02-20-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:41.09 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:41.10 Send ModbusTCP-Data: 02-21-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:41.10 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:41.10 Send ModbusTCP-Data: 02-22-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:41.10 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:41.10 Send ModbusTCP-Data: 02-23-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:41.10 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:41.10 Send ModbusTCP-Data: 02-24-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:41.10 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:41.10 Send ModbusTCP-Data: 02-25-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:41.11 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:41.11 Send ModbusTCP-Data: 02-26-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:41.11 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:41.11 Send ModbusTCP-Data: 02-27-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:41.11 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:41.11 Send ModbusTCP-Data: 02-28-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:41.37 FC6 (Write single register to Master device), StartingAddress: 2, Value: 1
+26.04.2021 9:48:41.37 Send ModbusTCP-Data: 02-29-00-00-00-06-01-06-00-02-00-01
+26.04.2021 9:48:41.60 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:41.60 Send ModbusTCP-Data: 02-2A-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:41.60 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:41.60 Send ModbusTCP-Data: 02-2B-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:41.61 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:41.61 Send ModbusTCP-Data: 02-2C-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:41.61 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:41.61 Send ModbusTCP-Data: 02-2D-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:41.62 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:41.62 Send ModbusTCP-Data: 02-2E-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:41.63 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:41.63 Send ModbusTCP-Data: 02-2F-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:41.63 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:41.63 Send ModbusTCP-Data: 02-30-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:41.63 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:41.63 Send ModbusTCP-Data: 02-31-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:41.63 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:41.63 Send ModbusTCP-Data: 02-32-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:41.63 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:41.63 Send ModbusTCP-Data: 02-33-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:41.64 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:41.64 Send ModbusTCP-Data: 02-34-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:41.64 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:41.64 Send ModbusTCP-Data: 02-35-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:41.83 FC6 (Write single register to Master device), StartingAddress: 2, Value: 0
+26.04.2021 9:48:41.83 Send ModbusTCP-Data: 02-36-00-00-00-06-01-06-00-02-00-00
+26.04.2021 9:48:42.10 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:42.10 Send ModbusTCP-Data: 02-37-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:42.10 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:42.10 Send ModbusTCP-Data: 02-38-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:42.10 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:42.10 Send ModbusTCP-Data: 02-39-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:42.10 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:42.10 Send ModbusTCP-Data: 02-3A-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:42.10 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:42.10 Send ModbusTCP-Data: 02-3B-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:42.11 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:42.11 Send ModbusTCP-Data: 02-3C-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:42.11 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:42.11 Send ModbusTCP-Data: 02-3D-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:42.11 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:42.11 Send ModbusTCP-Data: 02-3E-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:42.11 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:42.11 Send ModbusTCP-Data: 02-3F-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:42.11 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:42.11 Send ModbusTCP-Data: 02-40-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:42.12 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:42.12 Send ModbusTCP-Data: 02-41-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:42.12 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:42.12 Send ModbusTCP-Data: 02-42-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:42.62 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:42.62 Send ModbusTCP-Data: 02-43-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:42.62 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:42.62 Send ModbusTCP-Data: 02-44-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:42.62 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:42.62 Send ModbusTCP-Data: 02-45-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:42.62 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:42.62 Send ModbusTCP-Data: 02-46-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:42.62 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:42.62 Send ModbusTCP-Data: 02-47-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:42.63 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:42.63 Send ModbusTCP-Data: 02-48-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:42.63 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:42.63 Send ModbusTCP-Data: 02-49-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:42.63 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:42.63 Send ModbusTCP-Data: 02-4A-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:42.63 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:42.63 Send ModbusTCP-Data: 02-4B-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:42.63 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:42.63 Send ModbusTCP-Data: 02-4C-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:42.64 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:42.64 Send ModbusTCP-Data: 02-4D-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:42.64 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:42.64 Send ModbusTCP-Data: 02-4E-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:43.12 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:43.12 Send ModbusTCP-Data: 02-4F-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:43.12 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:43.12 Send ModbusTCP-Data: 02-50-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:43.12 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:43.13 Send ModbusTCP-Data: 02-51-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:43.13 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:43.13 Send ModbusTCP-Data: 02-52-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:43.14 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:43.14 Send ModbusTCP-Data: 02-53-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:43.14 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:43.14 Send ModbusTCP-Data: 02-54-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:43.14 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:43.14 Send ModbusTCP-Data: 02-55-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:43.14 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:43.14 Send ModbusTCP-Data: 02-56-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:43.15 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:43.15 Send ModbusTCP-Data: 02-57-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:43.15 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:43.15 Send ModbusTCP-Data: 02-58-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:43.15 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:43.15 Send ModbusTCP-Data: 02-59-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:43.15 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:43.15 Send ModbusTCP-Data: 02-5A-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:43.63 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:43.63 Send ModbusTCP-Data: 02-5B-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:43.63 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:43.63 Send ModbusTCP-Data: 02-5C-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:43.63 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:43.63 Send ModbusTCP-Data: 02-5D-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:43.63 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:43.63 Send ModbusTCP-Data: 02-5E-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:43.64 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:43.64 Send ModbusTCP-Data: 02-5F-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:43.64 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:43.64 Send ModbusTCP-Data: 02-60-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:43.64 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:43.64 Send ModbusTCP-Data: 02-61-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:43.64 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:43.64 Send ModbusTCP-Data: 02-62-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:43.64 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:43.64 Send ModbusTCP-Data: 02-63-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:43.65 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:43.65 Send ModbusTCP-Data: 02-64-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:43.65 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:43.65 Send ModbusTCP-Data: 02-65-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:43.65 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:43.65 Send ModbusTCP-Data: 02-66-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:44.13 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:44.13 Send ModbusTCP-Data: 02-67-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:44.13 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:44.13 Send ModbusTCP-Data: 02-68-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:44.13 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:44.13 Send ModbusTCP-Data: 02-69-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:44.13 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:44.13 Send ModbusTCP-Data: 02-6A-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:44.13 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:44.13 Send ModbusTCP-Data: 02-6B-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:44.14 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:44.14 Send ModbusTCP-Data: 02-6C-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:44.14 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:44.14 Send ModbusTCP-Data: 02-6D-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:44.14 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:44.14 Send ModbusTCP-Data: 02-6E-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:44.14 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:44.14 Send ModbusTCP-Data: 02-6F-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:44.14 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:44.14 Send ModbusTCP-Data: 02-70-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:44.15 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:44.15 Send ModbusTCP-Data: 02-71-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:44.15 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:44.15 Send ModbusTCP-Data: 02-72-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:44.65 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:44.65 Send ModbusTCP-Data: 02-73-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:44.65 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:44.65 Send ModbusTCP-Data: 02-74-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:44.65 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:44.65 Send ModbusTCP-Data: 02-75-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:44.65 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:44.65 Send ModbusTCP-Data: 02-76-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:44.65 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:44.65 Send ModbusTCP-Data: 02-77-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:44.66 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:44.66 Send ModbusTCP-Data: 02-78-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:44.66 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:44.66 Send ModbusTCP-Data: 02-79-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:44.66 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:44.66 Send ModbusTCP-Data: 02-7A-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:44.66 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:44.66 Send ModbusTCP-Data: 02-7B-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:44.66 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:44.66 Send ModbusTCP-Data: 02-7C-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:44.67 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:44.67 Send ModbusTCP-Data: 02-7D-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:44.67 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:44.67 Send ModbusTCP-Data: 02-7E-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:45.15 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:48:45.15 Send ModbusTCP-Data: 02-7F-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:48:45.15 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:48:45.15 Send ModbusTCP-Data: 02-80-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:48:45.15 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:48:45.15 Send ModbusTCP-Data: 02-81-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:48:45.15 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:48:45.15 Send ModbusTCP-Data: 02-82-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:48:45.16 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:48:45.16 Send ModbusTCP-Data: 02-83-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:48:45.16 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:48:45.16 Send ModbusTCP-Data: 02-84-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:48:45.16 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:48:45.16 Send ModbusTCP-Data: 02-85-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:48:45.16 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:48:45.16 Send ModbusTCP-Data: 02-86-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:48:45.17 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:48:45.17 Send ModbusTCP-Data: 02-87-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:48:45.17 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:48:45.17 Send ModbusTCP-Data: 02-88-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:48:45.17 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:48:45.17 Send ModbusTCP-Data: 02-89-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:48:45.17 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:48:45.17 Send ModbusTCP-Data: 02-8A-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:48:45.40 Destructor called - automatically disconnect
+26.04.2021 9:49:50.01 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:49:50.01 Send ModbusTCP-Data: 00-01-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:49:50.01 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:49:50.02 Send ModbusTCP-Data: 00-02-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:49:50.02 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:49:50.02 Send ModbusTCP-Data: 00-03-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:49:50.02 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:49:50.02 Send ModbusTCP-Data: 00-04-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:49:50.02 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:49:50.03 Send ModbusTCP-Data: 00-05-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:49:50.03 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:49:50.03 Send ModbusTCP-Data: 00-06-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:49:50.03 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:49:50.03 Send ModbusTCP-Data: 00-07-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:49:50.03 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:49:50.03 Send ModbusTCP-Data: 00-08-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:49:50.03 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:49:50.03 Send ModbusTCP-Data: 00-09-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:49:50.04 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:49:50.04 Send ModbusTCP-Data: 00-0A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:49:50.04 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:49:50.04 Send ModbusTCP-Data: 00-0B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:49:50.04 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:49:50.04 Send ModbusTCP-Data: 00-0C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:49:50.53 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:49:50.53 Send ModbusTCP-Data: 00-0D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:49:50.53 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:49:50.53 Send ModbusTCP-Data: 00-0E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:49:50.53 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:49:50.53 Send ModbusTCP-Data: 00-0F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:49:50.53 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:49:50.53 Send ModbusTCP-Data: 00-10-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:49:50.53 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:49:50.53 Send ModbusTCP-Data: 00-11-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:49:50.54 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:49:50.54 Send ModbusTCP-Data: 00-12-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:49:50.54 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:49:50.55 Send ModbusTCP-Data: 00-13-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:49:50.55 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:49:50.55 Send ModbusTCP-Data: 00-14-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:49:50.55 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:49:50.55 Send ModbusTCP-Data: 00-15-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:49:50.55 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:49:50.55 Send ModbusTCP-Data: 00-16-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:49:50.55 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:49:50.55 Send ModbusTCP-Data: 00-17-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:49:50.56 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:49:50.56 Send ModbusTCP-Data: 00-18-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:49:51.04 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:49:51.04 Send ModbusTCP-Data: 00-19-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:49:51.04 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:49:51.04 Send ModbusTCP-Data: 00-1A-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:49:51.04 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:49:51.04 Send ModbusTCP-Data: 00-1B-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:49:51.04 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:49:51.04 Send ModbusTCP-Data: 00-1C-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:49:51.04 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:49:51.04 Send ModbusTCP-Data: 00-1D-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:49:51.05 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:49:51.05 Send ModbusTCP-Data: 00-1E-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:49:51.05 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:49:51.05 Send ModbusTCP-Data: 00-1F-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:49:51.05 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:49:51.05 Send ModbusTCP-Data: 00-20-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:49:51.05 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:49:51.05 Send ModbusTCP-Data: 00-21-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:49:51.05 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:49:51.05 Send ModbusTCP-Data: 00-22-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:49:51.06 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:49:51.06 Send ModbusTCP-Data: 00-23-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:49:51.06 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:49:51.06 Send ModbusTCP-Data: 00-24-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:49:51.56 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:49:51.56 Send ModbusTCP-Data: 00-25-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:49:51.56 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:49:51.56 Send ModbusTCP-Data: 00-26-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:49:51.56 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:49:51.56 Send ModbusTCP-Data: 00-27-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:49:51.56 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:49:51.56 Send ModbusTCP-Data: 00-28-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:49:51.56 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:49:51.57 Send ModbusTCP-Data: 00-29-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:49:51.57 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:49:51.57 Send ModbusTCP-Data: 00-2A-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:49:51.57 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:49:51.57 Send ModbusTCP-Data: 00-2B-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:49:51.57 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:49:51.57 Send ModbusTCP-Data: 00-2C-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:49:51.57 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:49:51.57 Send ModbusTCP-Data: 00-2D-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:49:51.57 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:49:51.57 Send ModbusTCP-Data: 00-2E-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:49:51.58 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:49:51.58 Send ModbusTCP-Data: 00-2F-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:49:51.58 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:49:51.58 Send ModbusTCP-Data: 00-30-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:49:52.05 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:49:52.05 Send ModbusTCP-Data: 00-31-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:49:52.05 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:49:52.05 Send ModbusTCP-Data: 00-32-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:49:52.06 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:49:52.06 Send ModbusTCP-Data: 00-33-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:49:52.07 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:49:52.07 Send ModbusTCP-Data: 00-34-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:49:52.08 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:49:52.08 Send ModbusTCP-Data: 00-35-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:49:52.08 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:49:52.08 Send ModbusTCP-Data: 00-36-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:49:52.08 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:49:52.08 Send ModbusTCP-Data: 00-37-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:49:52.08 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:49:52.08 Send ModbusTCP-Data: 00-38-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:49:52.08 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:49:52.08 Send ModbusTCP-Data: 00-39-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:49:52.09 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:49:52.09 Send ModbusTCP-Data: 00-3A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:49:52.09 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:49:52.09 Send ModbusTCP-Data: 00-3B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:49:52.09 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:49:52.09 Send ModbusTCP-Data: 00-3C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:49:52.57 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:49:52.57 Send ModbusTCP-Data: 00-3D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:49:52.57 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:49:52.57 Send ModbusTCP-Data: 00-3E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:49:52.57 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:49:52.57 Send ModbusTCP-Data: 00-3F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:49:52.57 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:49:52.57 Send ModbusTCP-Data: 00-40-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:49:52.58 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:49:52.58 Send ModbusTCP-Data: 00-41-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:49:52.58 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:49:52.58 Send ModbusTCP-Data: 00-42-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:49:52.58 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:49:52.58 Send ModbusTCP-Data: 00-43-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:49:52.58 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:49:52.58 Send ModbusTCP-Data: 00-44-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:49:52.58 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:49:52.58 Send ModbusTCP-Data: 00-45-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:49:52.59 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:49:52.59 Send ModbusTCP-Data: 00-46-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:49:52.59 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:49:52.59 Send ModbusTCP-Data: 00-47-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:49:52.59 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:49:52.59 Send ModbusTCP-Data: 00-48-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:49:52.79 Destructor called - automatically disconnect
+26.04.2021 9:52:05.83 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:05.83 Send ModbusTCP-Data: 00-01-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:05.83 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:05.84 Send ModbusTCP-Data: 00-02-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:05.84 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:05.84 Send ModbusTCP-Data: 00-03-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:05.84 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:05.84 Send ModbusTCP-Data: 00-04-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:05.85 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:05.85 Send ModbusTCP-Data: 00-05-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:05.85 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:05.85 Send ModbusTCP-Data: 00-06-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:05.85 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:05.85 Send ModbusTCP-Data: 00-07-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:05.85 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:05.86 Send ModbusTCP-Data: 00-08-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:05.86 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:05.86 Send ModbusTCP-Data: 00-09-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:05.87 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:05.87 Send ModbusTCP-Data: 00-0A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:05.87 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:05.87 Send ModbusTCP-Data: 00-0B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:05.87 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:05.87 Send ModbusTCP-Data: 00-0C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:06.33 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:06.33 Send ModbusTCP-Data: 00-0D-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:06.33 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:06.33 Send ModbusTCP-Data: 00-0E-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:06.33 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:06.33 Send ModbusTCP-Data: 00-0F-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:06.33 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:06.33 Send ModbusTCP-Data: 00-10-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:06.33 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:06.34 Send ModbusTCP-Data: 00-11-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:06.34 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:06.34 Send ModbusTCP-Data: 00-12-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:06.34 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:06.34 Send ModbusTCP-Data: 00-13-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:06.34 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:06.34 Send ModbusTCP-Data: 00-14-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:06.34 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:06.34 Send ModbusTCP-Data: 00-15-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:06.34 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:06.35 Send ModbusTCP-Data: 00-16-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:06.35 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:06.35 Send ModbusTCP-Data: 00-17-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:06.35 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:06.35 Send ModbusTCP-Data: 00-18-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:06.85 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:06.85 Send ModbusTCP-Data: 00-19-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:06.85 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:06.85 Send ModbusTCP-Data: 00-1A-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:06.85 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:06.85 Send ModbusTCP-Data: 00-1B-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:06.86 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:06.86 Send ModbusTCP-Data: 00-1C-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:06.86 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:06.86 Send ModbusTCP-Data: 00-1D-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:06.86 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:06.86 Send ModbusTCP-Data: 00-1E-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:06.87 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:06.87 Send ModbusTCP-Data: 00-1F-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:06.87 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:06.87 Send ModbusTCP-Data: 00-20-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:06.87 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:06.87 Send ModbusTCP-Data: 00-21-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:06.87 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:06.88 Send ModbusTCP-Data: 00-22-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:06.88 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:06.88 Send ModbusTCP-Data: 00-23-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:06.89 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:06.89 Send ModbusTCP-Data: 00-24-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:07.35 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:07.35 Send ModbusTCP-Data: 00-25-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:07.35 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:07.35 Send ModbusTCP-Data: 00-26-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:07.35 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:07.35 Send ModbusTCP-Data: 00-27-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:07.35 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:07.36 Send ModbusTCP-Data: 00-28-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:07.36 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:07.36 Send ModbusTCP-Data: 00-29-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:07.36 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:07.36 Send ModbusTCP-Data: 00-2A-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:07.36 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:07.36 Send ModbusTCP-Data: 00-2B-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:07.36 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:07.36 Send ModbusTCP-Data: 00-2C-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:07.37 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:07.37 Send ModbusTCP-Data: 00-2D-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:07.37 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:07.37 Send ModbusTCP-Data: 00-2E-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:07.37 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:07.37 Send ModbusTCP-Data: 00-2F-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:07.37 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:07.37 Send ModbusTCP-Data: 00-30-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:07.86 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:07.88 Send ModbusTCP-Data: 00-31-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:07.88 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:07.88 Send ModbusTCP-Data: 00-32-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:07.88 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:07.88 Send ModbusTCP-Data: 00-33-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:07.89 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:07.89 Send ModbusTCP-Data: 00-34-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:07.89 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:07.89 Send ModbusTCP-Data: 00-35-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:07.89 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:07.89 Send ModbusTCP-Data: 00-36-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:07.90 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:07.91 Send ModbusTCP-Data: 00-37-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:07.91 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:07.94 Send ModbusTCP-Data: 00-38-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:07.95 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:07.95 Send ModbusTCP-Data: 00-39-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:07.95 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:07.96 Send ModbusTCP-Data: 00-3A-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:07.96 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:07.96 Send ModbusTCP-Data: 00-3B-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:07.96 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:07.96 Send ModbusTCP-Data: 00-3C-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:08.27 FC6 (Write single register to Master device), StartingAddress: 3, Value: 1
+26.04.2021 9:52:08.27 Send ModbusTCP-Data: 00-3D-00-00-00-06-01-06-00-03-00-01
+26.04.2021 9:52:08.36 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:08.36 Send ModbusTCP-Data: 00-3E-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:08.36 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:08.36 Send ModbusTCP-Data: 00-3F-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:08.37 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:08.37 Send ModbusTCP-Data: 00-40-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:08.38 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:08.38 Send ModbusTCP-Data: 00-41-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:08.38 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:08.38 Send ModbusTCP-Data: 00-42-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:08.38 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:08.38 Send ModbusTCP-Data: 00-43-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:08.38 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:08.38 Send ModbusTCP-Data: 00-44-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:08.38 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:08.38 Send ModbusTCP-Data: 00-45-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:08.39 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:08.39 Send ModbusTCP-Data: 00-46-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:08.39 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:08.39 Send ModbusTCP-Data: 00-47-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:08.41 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:08.42 Send ModbusTCP-Data: 00-48-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:08.42 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:08.42 Send ModbusTCP-Data: 00-49-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:08.87 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:08.87 Send ModbusTCP-Data: 00-4A-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:08.87 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:08.88 Send ModbusTCP-Data: 00-4B-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:08.89 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:08.89 Send ModbusTCP-Data: 00-4C-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:08.89 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:08.90 Send ModbusTCP-Data: 00-4D-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:08.90 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:08.90 Send ModbusTCP-Data: 00-4E-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:08.90 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:08.90 Send ModbusTCP-Data: 00-4F-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:08.91 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:08.91 Send ModbusTCP-Data: 00-50-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:08.91 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:08.91 Send ModbusTCP-Data: 00-51-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:08.91 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:08.91 Send ModbusTCP-Data: 00-52-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:08.91 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:08.92 Send ModbusTCP-Data: 00-53-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:08.93 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:08.93 Send ModbusTCP-Data: 00-54-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:08.94 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:08.94 Send ModbusTCP-Data: 00-55-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:09.39 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:09.39 Send ModbusTCP-Data: 00-56-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:09.40 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:09.40 Send ModbusTCP-Data: 00-57-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:09.40 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:09.40 Send ModbusTCP-Data: 00-58-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:09.41 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:09.41 Send ModbusTCP-Data: 00-59-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:09.41 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:09.42 Send ModbusTCP-Data: 00-5A-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:09.42 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:09.42 Send ModbusTCP-Data: 00-5B-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:09.42 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:09.42 Send ModbusTCP-Data: 00-5C-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:09.42 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:09.43 Send ModbusTCP-Data: 00-5D-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:09.43 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:09.43 Send ModbusTCP-Data: 00-5E-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:09.43 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:09.43 Send ModbusTCP-Data: 00-5F-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:09.43 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:09.43 Send ModbusTCP-Data: 00-60-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:09.43 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:09.44 Send ModbusTCP-Data: 00-61-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:09.53 FC6 (Write single register to Master device), StartingAddress: 3, Value: 0
+26.04.2021 9:52:09.53 Send ModbusTCP-Data: 00-62-00-00-00-06-01-06-00-03-00-00
+26.04.2021 9:52:09.88 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:09.88 Send ModbusTCP-Data: 00-63-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:09.88 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:09.88 Send ModbusTCP-Data: 00-64-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:09.88 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:09.88 Send ModbusTCP-Data: 00-65-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:09.88 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:09.89 Send ModbusTCP-Data: 00-66-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:09.89 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:09.89 Send ModbusTCP-Data: 00-67-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:09.89 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:09.89 Send ModbusTCP-Data: 00-68-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:09.89 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:09.89 Send ModbusTCP-Data: 00-69-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:09.90 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:09.90 Send ModbusTCP-Data: 00-6A-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:09.90 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:09.90 Send ModbusTCP-Data: 00-6B-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:09.90 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:09.90 Send ModbusTCP-Data: 00-6C-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:09.90 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:09.90 Send ModbusTCP-Data: 00-6D-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:09.92 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:09.93 Send ModbusTCP-Data: 00-6E-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:10.38 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:10.38 Send ModbusTCP-Data: 00-6F-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:10.39 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:10.39 Send ModbusTCP-Data: 00-70-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:10.39 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:10.39 Send ModbusTCP-Data: 00-71-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:10.39 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:10.39 Send ModbusTCP-Data: 00-72-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:10.39 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:10.39 Send ModbusTCP-Data: 00-73-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:10.41 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:10.43 Send ModbusTCP-Data: 00-74-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:10.44 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:10.44 Send ModbusTCP-Data: 00-75-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:10.44 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:10.45 Send ModbusTCP-Data: 00-76-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:10.45 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:10.45 Send ModbusTCP-Data: 00-77-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:10.45 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:10.45 Send ModbusTCP-Data: 00-78-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:10.45 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:10.46 Send ModbusTCP-Data: 00-79-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:10.46 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:10.46 Send ModbusTCP-Data: 00-7A-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:10.90 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:10.90 Send ModbusTCP-Data: 00-7B-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:10.90 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:10.90 Send ModbusTCP-Data: 00-7C-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:10.90 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:10.90 Send ModbusTCP-Data: 00-7D-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:10.91 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:10.91 Send ModbusTCP-Data: 00-7E-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:10.91 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:10.91 Send ModbusTCP-Data: 00-7F-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:10.91 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:10.91 Send ModbusTCP-Data: 00-80-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:10.91 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:10.91 Send ModbusTCP-Data: 00-81-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:10.91 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:10.92 Send ModbusTCP-Data: 00-82-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:10.92 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:10.92 Send ModbusTCP-Data: 00-83-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:10.92 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:10.92 Send ModbusTCP-Data: 00-84-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:10.92 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:10.92 Send ModbusTCP-Data: 00-85-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:10.92 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:10.92 Send ModbusTCP-Data: 00-86-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:11.40 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:11.40 Send ModbusTCP-Data: 00-87-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:11.40 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:11.40 Send ModbusTCP-Data: 00-88-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:11.40 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:11.41 Send ModbusTCP-Data: 00-89-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:11.41 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:11.41 Send ModbusTCP-Data: 00-8A-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:11.41 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:11.41 Send ModbusTCP-Data: 00-8B-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:11.41 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:11.41 Send ModbusTCP-Data: 00-8C-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:11.42 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:11.42 Send ModbusTCP-Data: 00-8D-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:11.42 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:11.42 Send ModbusTCP-Data: 00-8E-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:11.42 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:11.42 Send ModbusTCP-Data: 00-8F-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:11.42 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:11.42 Send ModbusTCP-Data: 00-90-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:11.42 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:11.43 Send ModbusTCP-Data: 00-91-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:11.43 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:11.43 Send ModbusTCP-Data: 00-92-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:11.91 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:11.91 Send ModbusTCP-Data: 00-93-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:11.91 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:11.91 Send ModbusTCP-Data: 00-94-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:11.91 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:11.92 Send ModbusTCP-Data: 00-95-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:11.92 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:11.92 Send ModbusTCP-Data: 00-96-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:11.92 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:11.92 Send ModbusTCP-Data: 00-97-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:11.92 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:11.92 Send ModbusTCP-Data: 00-98-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:11.92 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:11.93 Send ModbusTCP-Data: 00-99-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:11.93 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:11.93 Send ModbusTCP-Data: 00-9A-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:11.93 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:11.93 Send ModbusTCP-Data: 00-9B-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:11.93 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:11.93 Send ModbusTCP-Data: 00-9C-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:11.93 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:11.93 Send ModbusTCP-Data: 00-9D-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:11.95 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:11.95 Send ModbusTCP-Data: 00-9E-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:12.41 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:12.41 Send ModbusTCP-Data: 00-9F-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:12.41 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:12.41 Send ModbusTCP-Data: 00-A0-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:12.41 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:12.41 Send ModbusTCP-Data: 00-A1-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:12.41 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:12.42 Send ModbusTCP-Data: 00-A2-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:12.42 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:12.42 Send ModbusTCP-Data: 00-A3-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:12.42 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:12.42 Send ModbusTCP-Data: 00-A4-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:12.42 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:12.42 Send ModbusTCP-Data: 00-A5-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:12.42 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:12.43 Send ModbusTCP-Data: 00-A6-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:12.43 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:12.43 Send ModbusTCP-Data: 00-A7-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:12.46 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:12.46 Send ModbusTCP-Data: 00-A8-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:12.47 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:12.47 Send ModbusTCP-Data: 00-A9-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:12.47 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:12.47 Send ModbusTCP-Data: 00-AA-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:12.93 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:12.93 Send ModbusTCP-Data: 00-AB-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:12.93 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:12.93 Send ModbusTCP-Data: 00-AC-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:12.93 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:12.93 Send ModbusTCP-Data: 00-AD-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:12.94 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:12.94 Send ModbusTCP-Data: 00-AE-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:12.94 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:12.94 Send ModbusTCP-Data: 00-AF-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:12.94 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:12.94 Send ModbusTCP-Data: 00-B0-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:12.94 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:12.95 Send ModbusTCP-Data: 00-B1-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:12.95 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:12.95 Send ModbusTCP-Data: 00-B2-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:12.95 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:12.95 Send ModbusTCP-Data: 00-B3-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:12.95 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:12.95 Send ModbusTCP-Data: 00-B4-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:12.95 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:12.95 Send ModbusTCP-Data: 00-B5-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:12.96 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:12.96 Send ModbusTCP-Data: 00-B6-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:13.43 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:13.44 Send ModbusTCP-Data: 00-B7-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:13.44 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:13.44 Send ModbusTCP-Data: 00-B8-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:13.44 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:13.44 Send ModbusTCP-Data: 00-B9-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:13.45 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:13.45 Send ModbusTCP-Data: 00-BA-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:13.45 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:13.45 Send ModbusTCP-Data: 00-BB-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:13.45 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:13.45 Send ModbusTCP-Data: 00-BC-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:13.45 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:13.47 Send ModbusTCP-Data: 00-BD-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:13.48 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:13.49 Send ModbusTCP-Data: 00-BE-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:13.49 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:13.49 Send ModbusTCP-Data: 00-BF-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:13.50 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:13.50 Send ModbusTCP-Data: 00-C0-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:13.50 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:13.50 Send ModbusTCP-Data: 00-C1-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:13.51 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:13.51 Send ModbusTCP-Data: 00-C2-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:13.94 FC3 (Read Holding Registers from Master device), StartingAddress: 80, Quantity: 2
+26.04.2021 9:52:13.94 Send ModbusTCP-Data: 00-C3-00-00-00-06-01-03-00-50-00-02
+26.04.2021 9:52:13.94 FC3 (Read Holding Registers from Master device), StartingAddress: 82, Quantity: 2
+26.04.2021 9:52:13.94 Send ModbusTCP-Data: 00-C4-00-00-00-06-01-03-00-52-00-02
+26.04.2021 9:52:13.94 FC3 (Read Holding Registers from Master device), StartingAddress: 16, Quantity: 2
+26.04.2021 9:52:13.94 Send ModbusTCP-Data: 00-C5-00-00-00-06-01-03-00-10-00-02
+26.04.2021 9:52:13.94 FC3 (Read Holding Registers from Master device), StartingAddress: 84, Quantity: 2
+26.04.2021 9:52:13.95 Send ModbusTCP-Data: 00-C6-00-00-00-06-01-03-00-54-00-02
+26.04.2021 9:52:13.95 FC3 (Read Holding Registers from Master device), StartingAddress: 14, Quantity: 2
+26.04.2021 9:52:13.95 Send ModbusTCP-Data: 00-C7-00-00-00-06-01-03-00-0E-00-02
+26.04.2021 9:52:13.95 FC3 (Read Holding Registers from Master device), StartingAddress: 86, Quantity: 2
+26.04.2021 9:52:13.95 Send ModbusTCP-Data: 00-C8-00-00-00-06-01-03-00-56-00-02
+26.04.2021 9:52:13.96 FC3 (Read Holding Registers from Master device), StartingAddress: 18, Quantity: 2
+26.04.2021 9:52:13.96 Send ModbusTCP-Data: 00-C9-00-00-00-06-01-03-00-12-00-02
+26.04.2021 9:52:13.97 FC3 (Read Holding Registers from Master device), StartingAddress: 88, Quantity: 2
+26.04.2021 9:52:13.97 Send ModbusTCP-Data: 00-CA-00-00-00-06-01-03-00-58-00-02
+26.04.2021 9:52:13.98 FC3 (Read Holding Registers from Master device), StartingAddress: 22, Quantity: 2
+26.04.2021 9:52:13.98 Send ModbusTCP-Data: 00-CB-00-00-00-06-01-03-00-16-00-02
+26.04.2021 9:52:13.98 FC3 (Read Holding Registers from Master device), StartingAddress: 78, Quantity: 2
+26.04.2021 9:52:13.98 Send ModbusTCP-Data: 00-CC-00-00-00-06-01-03-00-4E-00-02
+26.04.2021 9:52:13.99 FC3 (Read Holding Registers from Master device), StartingAddress: 40, Quantity: 2
+26.04.2021 9:52:13.99 Send ModbusTCP-Data: 00-CD-00-00-00-06-01-03-00-28-00-02
+26.04.2021 9:52:13.99 FC3 (Read Holding Registers from Master device), StartingAddress: 2, Quantity: 2
+26.04.2021 9:52:13.99 Send ModbusTCP-Data: 00-CE-00-00-00-06-01-03-00-02-00-02
+26.04.2021 9:52:14.56 Destructor called - automatically disconnect
